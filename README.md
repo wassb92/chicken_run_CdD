@@ -24,14 +24,6 @@ npm run swagger-autogen
 
 ### Then go to http://localhost:8000/doc/
 
-## Testing
-
-Run automated tests
-
-```bash
-npm run tests
-```
-
 ## Technologies
 
 - JavaScript
